@@ -1,0 +1,16 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Explicit Versioning](https://github.com/exadra37-versioning/explicit-versioning).
+
+## [Unreleased]
+### Added
+- read two RLS RM08 enocders using an Adafruit feather M4 express
+- expose the value of the enoced via the DAC to an analog sytem
+- calibrate the enoders via a zero position to centre the output of the DAC
+### Changed
+### Deprecated
+### Removed
+### Fixed
